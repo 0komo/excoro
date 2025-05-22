@@ -1,0 +1,15 @@
+package = "excoro"
+version = "0.1.0"
+lua = ">=5.1"
+
+[description]
+summary = "Extra utils for Lua coroutines"
+maintainer = "0komo"
+license = "MIT"
+
+[dependencies]
+# Add your dependencies here
+# `busted = ">=2.0"`
+
+[build]
+type = "builtin"
